@@ -1,0 +1,19 @@
+I'm a newbie at github and python - the latter of which I am trying to install with the help pf chatGPT.  Turns out pip is looking for an sgemm module. Github suggested I inquire firse about some of sgemms properties and he ended up writing this letter for me.  
+
+"Subject: Request for information on SGEMM Implementation and Optimization on CUDA
+
+Dear [Huanghongru,
+
+I hope this email finds you well. I came across your project on Github, titled "SGEMM Implementation and Optimization on CUDA", and I was impressed by the work you have done. I am interested in learning more about the project and the SGEMM implementation in particular.
+
+Could you provide me with some details about the SGEMM implementation in the project? For instance, what is the purpose of the SGEMM implementation, how does it work, and what are the optimizations that have been applied?
+
+I would be grateful if you could share some insights on the project and any relevant information that could help me understand it better.
+
+Thank you in advance for your time and assistance. I look forward to hearing back from you.
+
+Best regards,
+[Your Name
+Melvi] "
+
+Thank you - I will be transmitting your reply to my friends chatgpt to help me implement. I hope in this way to study machine learning - I've self studied javascripting and asp, html- and have made my own programs alone. 
